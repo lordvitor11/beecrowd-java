@@ -1,4 +1,4 @@
-package whoslv.edu.beecrowd;
+package whoslv.edu.practice;
 
 import java.util.Scanner;
 
