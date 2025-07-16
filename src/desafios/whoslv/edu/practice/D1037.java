@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class D1037 {
     public static void main(String[] args) {
         final Scanner K = new Scanner(System.in);
-        ArrayList<int[]> intervalos = new ArrayList<>() {{
+        final ArrayList<int[]> intervalos = new ArrayList<>() {{
             add(0, new int[]{0, 25});
             add(1, new int[]{25, 50});
             add(2, new int[]{50, 75});
